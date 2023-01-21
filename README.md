@@ -1,4 +1,5 @@
-<h1>Hello, I'm Caiden! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hello, I'm Caiden!<br>
+<a href="https://www.linkedin.com/in/caiden-broman/">Cybersecurity Enthusiasst</h1>
 
 Newly introduced to the field of Cybersecurity and IT and eagerly want to expand my knowledge and further my career development in a Cybersecurity role. Recently obtained Security+ 601 and TS/SCI from my time with the U.S. Air force. Created my Github profile to share my first project in PowerShell by creating a very basic Active Directory network in VirtualBox
 
